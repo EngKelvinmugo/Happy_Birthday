@@ -4,16 +4,14 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "Happy ++1",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "To more life",  // 同上...
+        "Today its the day",
+        "May your wish come true",
+        "It's your special day — get out there and celebrate!",
+"Wishing you the biggest slice of happy today.",
+"I hope your celebration gives you many happy memories!",
+"Your age is merely the number of years the world has been enjoying us!",
+       "Don't count the candles, enjoy your day.",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
